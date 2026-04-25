@@ -1,0 +1,34 @@
+```
+# Dependencies
+node_modules/
+
+# Build artifacts
+dist/
+.ai-bot-marketplace/node_modules/.vite/
+
+# Environment variables
+.env
+.env.local
+.env.*
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Package lock files
+package-lock.json
+
+# Server log
+server.log
+```
